@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24+Charted&display=swap');
+        
+.font{
+    display:inline-block;
+margin:20px 20px;
+padding: 5px 5px;
+text-align: justify;
+background-color: blue black crimson;
+border:5px solid black;
+ font-family: "Jacquard 24 Charted", system-ui;
+font-weight: 400;
+font-size: xx-large;
+border:20px 30px;
+border-radius: 20px;
+display:inline-block;
+margin:20px 20px;
+padding: 5px 5px;
+text-align: justify;
+background-color: blue black crimson;
+
+}
+.font:hover{  box-shadow: 20px 20px 25px 15px #808080;
+ background-color: rgb(255, 71, 215);
+ 
+}
